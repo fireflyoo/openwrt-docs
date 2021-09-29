@@ -34,6 +34,7 @@ php8-mod-ctype
 php8-mod-pdo-sqlite
 php8-mod-session
 php8-mod-tokenizer
+php8-mod-filter
 zoneinfo-asia
 unzip
 ```
